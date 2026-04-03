@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "question": "Bước đầu tiên trong quy trình bán hàng tư vấn là gì?",
+    "options": [
+      "A. Chốt đơn hàng",
+      "B. Tìm hiểu nhu cầu khách hàng",
+      "C. Giới thiệu sản phẩm",
+      "D. Xử lý phản đối"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "Kỹ năng nào quan trọng nhất khi lắng nghe khách hàng?",
+    "options": [
+      "A. Ghi chép nhanh",
+      "B. Lắng nghe chủ động (Active Listening)",
+      "C. Nói xen vào để thể hiện sự đồng tình",
+      "D. Chờ đợi im lặng"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "Công thức AIDA trong bán hàng là viết tắt của?",
+    "options": [
+      "A. Action, Interest, Desire, Attention",
+      "B. Attention, Interest, Desire, Action",
+      "C. Awareness, Impact, Decision, Action",
+      "D. Attention, Impact, Desire, Agreement"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "Khi khách hàng nói 'Tôi cần suy nghĩ thêm', bạn nên?",
+    "options": [
+      "A. Gây áp lực để chốt ngay",
+      "B. Hỏi lại: 'Anh/chị cần thêm thông tin gì để quyết định?'",
+      "C. Bỏ qua và chuyển sang khách khác",
+      "D. Giảm giá ngay lập tức"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "Cross-selling (Bán chéo) nghĩa là gì?",
+    "options": [
+      "A. Bán sản phẩm cao cấp hơn",
+      "B. Giới thiệu sản phẩm bổ sung liên quan",
+      "C. Bán hàng qua nhiều kênh",
+      "D. Bán với giá chéo giữa các đối thủ"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "question": "Up-selling (Bán nâng cấp) nghĩa là gì?",
+    "options": [
+      "A. Bán sản phẩm bổ sung",
+      "B. Khuyến khích khách chọn phiên bản cao cấp hơn",
+      "C. Tăng giá sản phẩm",
+      "D. Bán cho khách hàng cũ"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "question": "Phương pháp SPIN Selling bao gồm các loại câu hỏi nào?",
+    "options": [
+      "A. Situation, Problem, Implication, Need-Payoff",
+      "B. Sales, Pricing, Information, Negotiation",
+      "C. Strategy, Plan, Implementation, Needs",
+      "D. Service, Product, Incentive, Network"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "question": "Khi xử lý khiếu nại của khách hàng, bước đầu tiên nên làm gì?",
+    "options": [
+      "A. Giải thích lý do ngay lập tức",
+      "B. Xin lỗi và lắng nghe đầy đủ vấn đề",
+      "C. Chuyển cho quản lý xử lý",
+      "D. Đề nghị hoàn tiền"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "question": "KPI phổ biến nhất để đánh giá hiệu suất bán hàng là gì?",
+    "options": [
+      "A. Số lượng email gửi đi",
+      "B. Doanh thu và tỷ lệ chuyển đổi",
+      "C. Số giờ làm việc",
+      "D. Số lượng cuộc họp nội bộ"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "Funnel (Phễu) bán hàng gồm các giai đoạn nào theo thứ tự?",
+    "options": [
+      "A. Nhận biết → Quan tâm → Quyết định → Hành động",
+      "B. Hành động → Quyết định → Quan tâm → Nhận biết",
+      "C. Quan tâm → Nhận biết → Hành động → Quyết định",
+      "D. Quyết định → Hành động → Nhận biết → Quan tâm"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "question": "Giá trị trọn đời khách hàng (CLV) được tính dựa trên yếu tố nào?",
+    "options": [
+      "A. Chi phí quảng cáo",
+      "B. Tổng doanh thu từ khách hàng trong suốt thời gian họ mua hàng",
+      "C. Lợi nhuận từ lần mua đầu tiên",
+      "D. Số lượng sản phẩm trong kho"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "question": "CRM là viết tắt của?",
+    "options": [
+      "A. Customer Relationship Management",
+      "B. Client Revenue Model",
+      "C. Customer Retention Method",
+      "D. Commercial Resource Management"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 13,
+    "question": "Khi báo giá cho khách hàng, kỹ thuật 'Anchoring' là gì?",
+    "options": [
+      "A. Đưa giá thấp nhất trước",
+      "B. Đưa giá cao nhất trước để tạo điểm neo so sánh",
+      "C. Không đưa giá, chỉ nói giá trị",
+      "D. Đưa nhiều mức giá cùng lúc"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "Nguyên tắc 80/20 (Pareto) trong bán hàng có nghĩa?",
+    "options": [
+      "A. 80% khách hàng mua 20% sản phẩm",
+      "B. 20% khách hàng tạo ra 80% doanh thu",
+      "C. 80% thời gian dành cho 20% công việc",
+      "D. 20% nhân viên làm 80% công việc"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "Elevator Pitch hiệu quả nên kéo dài bao lâu?",
+    "options": [
+      "A. 5-10 phút",
+      "B. 30-60 giây",
+      "C. 2-3 phút",
+      "D. Càng dài càng tốt"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "Trong đàm phán, chiến lược 'Win-Win' nghĩa là?",
+    "options": [
+      "A. Bên bán luôn thắng",
+      "B. Cả hai bên đều đạt được lợi ích",
+      "C. Khách hàng luôn đúng",
+      "D. Chia đôi mọi thứ"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "question": "Phương pháp FAB trong bán hàng là gì?",
+    "options": [
+      "A. Features, Advantages, Benefits",
+      "B. Fast, Accurate, Bold",
+      "C. Friendly, Active, Brave",
+      "D. Focus, Analyze, Build"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "question": "Khi cold-calling (gọi nguội), thời điểm tốt nhất trong ngày là?",
+    "options": [
+      "A. 7-8 giờ sáng",
+      "B. 10-11 giờ sáng hoặc 2-4 giờ chiều",
+      "C. 12-1 giờ trưa",
+      "D. Sau 6 giờ tối"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "question": "Social Selling (Bán hàng qua mạng xã hội) hiệu quả nhất trên nền tảng nào cho B2B?",
+    "options": [
+      "A. TikTok",
+      "B. LinkedIn",
+      "C. Instagram",
+      "D. Facebook cá nhân"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "Kỹ thuật 'Mirroring' trong giao tiếp bán hàng là gì?",
+    "options": [
+      "A. Phản chiếu hành vi và ngôn ngữ cơ thể của khách",
+      "B. Cho khách soi gương thử sản phẩm",
+      "C. Copy chiến lược của đối thủ",
+      "D. Gửi email trùng lặp"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "question": "Tỷ lệ chuyển đổi (Conversion Rate) được tính bằng?",
+    "options": [
+      "A. Số khách mua / Tổng số khách tiếp cận × 100%",
+      "B. Tổng doanh thu / Số nhân viên",
+      "C. Số cuộc gọi / Số email",
+      "D. Lợi nhuận / Chi phí quảng cáo"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "question": "Khi khách hàng so sánh với đối thủ cạnh tranh, bạn nên?",
+    "options": [
+      "A. Nói xấu đối thủ",
+      "B. Tập trung vào giá trị khác biệt (USP) của mình",
+      "C. Giảm giá để cạnh tranh",
+      "D. Bỏ qua câu hỏi"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "question": "USP (Unique Selling Proposition) là gì?",
+    "options": [
+      "A. Giá bán thấp nhất thị trường",
+      "B. Điểm bán hàng độc nhất tạo sự khác biệt với đối thủ",
+      "C. Chính sách bảo hành dài nhất",
+      "D. Số lượng sản phẩm nhiều nhất"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "question": "Trong email bán hàng, Subject Line (dòng tiêu đề) nên?",
+    "options": [
+      "A. Viết dài để mô tả đầy đủ",
+      "B. Ngắn gọn, gây tò mò và có giá trị rõ ràng",
+      "C. Viết toàn chữ HOA",
+      "D. Dùng nhiều emoji"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "question": "Follow-up (Theo dõi) sau bán hàng nên thực hiện thế nào?",
+    "options": [
+      "A. Chỉ gọi khi có khuyến mãi mới",
+      "B. Liên hệ định kỳ để chăm sóc và tạo cơ hội bán thêm",
+      "C. Không cần, khách sẽ tự quay lại",
+      "D. Chỉ liên hệ khi khách khiếu nại"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "question": "Pipeline bán hàng là gì?",
+    "options": [
+      "A. Đường ống dẫn nước trong công ty",
+      "B. Hệ thống theo dõi các cơ hội bán hàng qua từng giai đoạn",
+      "C. Phần mềm quản lý kho",
+      "D. Danh sách sản phẩm mới"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "question": "Objection Handling (Xử lý phản đối) hiệu quả nhất theo phương pháp nào?",
+    "options": [
+      "A. Bỏ qua phản đối",
+      "B. LACE: Listen, Acknowledge, Counter, Explain",
+      "C. Giảm giá ngay",
+      "D. Tranh luận với khách hàng"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "question": "Khi trình bày giải pháp cho khách hàng, yếu tố nào quan trọng nhất?",
+    "options": [
+      "A. Slide đẹp",
+      "B. Giải pháp phải giải quyết đúng pain point (điểm đau) của khách",
+      "C. Nói nhanh để tiết kiệm thời gian",
+      "D. Dùng nhiều thuật ngữ chuyên ngành"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 29,
+    "question": "B2B (Business-to-Business) khác B2C (Business-to-Consumer) ở điểm nào?",
+    "options": [
+      "A. B2B có chu kỳ bán hàng ngắn hơn",
+      "B. B2B thường có quy trình ra quyết định phức tạp hơn với nhiều người tham gia",
+      "C. B2C luôn có giá trị đơn hàng lớn hơn",
+      "D. Không có sự khác biệt"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 30,
+    "question": "Net Promoter Score (NPS) đo lường điều gì?",
+    "options": [
+      "A. Doanh thu hàng tháng",
+      "B. Mức độ sẵn lòng giới thiệu sản phẩm/dịch vụ của khách hàng",
+      "C. Số lượng khách hàng mới",
+      "D. Chi phí marketing"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "question": "Churn Rate (Tỷ lệ mất khách) được tính bằng?",
+    "options": [
+      "A. Số khách mất / Tổng khách đầu kỳ × 100%",
+      "B. Doanh thu / Số nhân viên",
+      "C. Số sản phẩm trả lại / Tổng sản phẩm bán",
+      "D. Chi phí / Lợi nhuận"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 32,
+    "question": "Kỹ thuật 'Assumptive Close' trong chốt đơn là gì?",
+    "options": [
+      "A. Giả sử khách đã quyết định mua và tiến hành các bước tiếp theo",
+      "B. Hỏi khách có muốn mua không",
+      "C. Cho khách thời gian suy nghĩ",
+      "D. Gửi báo giá và chờ phản hồi"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 33,
+    "question": "ROI (Return on Investment) trong bán hàng được tính bằng?",
+    "options": [
+      "A. (Lợi nhuận − Chi phí) / Chi phí × 100%",
+      "B. Doanh thu / Số nhân viên",
+      "C. Tổng chi phí marketing",
+      "D. Số đơn hàng / Thời gian"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 34,
+    "question": "Khi demo sản phẩm, sai lầm phổ biến nhất là gì?",
+    "options": [
+      "A. Demo quá ngắn",
+      "B. Tập trung vào tính năng thay vì lợi ích cho khách hàng",
+      "C. Cho khách tự trải nghiệm",
+      "D. Hỏi quá nhiều câu hỏi"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 35,
+    "question": "Referral (Giới thiệu) là nguồn leads có đặc điểm gì?",
+    "options": [
+      "A. Tỷ lệ chuyển đổi thấp",
+      "B. Tỷ lệ chuyển đổi cao nhờ có sự tin tưởng từ trước",
+      "C. Chi phí cao nhất",
+      "D. Khó tiếp cận nhất"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "question": "Trong bán hàng, 'Discovery Call' có mục đích gì?",
+    "options": [
+      "A. Chốt đơn hàng ngay",
+      "B. Tìm hiểu nhu cầu, thách thức và mục tiêu của khách hàng",
+      "C. Giới thiệu toàn bộ sản phẩm",
+      "D. Đàm phán giá"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "question": "Khi gửi proposal (đề xuất), yếu tố nào cần có?",
+    "options": [
+      "A. Chỉ cần bảng giá",
+      "B. Tóm tắt vấn đề, giải pháp đề xuất, giá trị mang lại, và bảng giá",
+      "C. Chỉ cần slide đẹp",
+      "D. Danh sách tính năng"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "question": "Consultative Selling (Bán hàng tư vấn) khác Traditional Selling ở điểm nào?",
+    "options": [
+      "A. Tập trung vào đẩy sản phẩm",
+      "B. Đặt nhu cầu khách hàng lên trung tâm, đóng vai trò cố vấn tin cậy",
+      "C. Chỉ bán online",
+      "D. Giá rẻ hơn"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 39,
+    "question": "Khi đàm phán, BATNA là gì?",
+    "options": [
+      "A. Best Alternative to a Negotiated Agreement",
+      "B. Business Analysis Tool for New Accounts",
+      "C. Budget Allocation for Trade Activities",
+      "D. Buyer's Assessment of Total Needs"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 40,
+    "question": "Customer Journey Map phục vụ mục đích gì?",
+    "options": [
+      "A. Quản lý kho hàng",
+      "B. Hiểu và tối ưu trải nghiệm khách hàng qua từng điểm chạm",
+      "C. Lập lộ trình giao hàng",
+      "D. Thiết kế bao bì sản phẩm"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 41,
+    "question": "Kỹ thuật 'Trial Close' là gì?",
+    "options": [
+      "A. Cho khách dùng thử miễn phí",
+      "B. Hỏi câu hỏi thăm dò để đánh giá mức độ sẵn sàng mua của khách",
+      "C. Đóng cửa hàng để thử nghiệm",
+      "D. Chốt đơn hàng thử"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 42,
+    "question": "Inbound Sales khác Outbound Sales ở điểm nào?",
+    "options": [
+      "A. Inbound: khách hàng chủ động tìm đến; Outbound: bạn chủ động tiếp cận",
+      "B. Inbound luôn đắt hơn",
+      "C. Outbound chỉ dùng cho B2C",
+      "D. Không có sự khác biệt"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 43,
+    "question": "Khi gặp khách hàng khó tính (Difficult Customer), nên làm gì?",
+    "options": [
+      "A. Tránh né, không phục vụ",
+      "B. Giữ bình tĩnh, thấu hiểu và tìm giải pháp cùng nhau",
+      "C. Tranh cãi để chứng minh mình đúng",
+      "D. Gọi bảo vệ"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 44,
+    "question": "MQL (Marketing Qualified Lead) khác SQL (Sales Qualified Lead) thế nào?",
+    "options": [
+      "A. Giống nhau hoàn toàn",
+      "B. MQL là lead đã thể hiện quan tâm; SQL là lead đã sẵn sàng để bán",
+      "C. SQL do marketing quản lý",
+      "D. MQL luôn tốt hơn SQL"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 45,
+    "question": "Kỹ thuật 'Sandler Selling System' nhấn mạnh điều gì?",
+    "options": [
+      "A. Bán hàng áp lực cao",
+      "B. Xây dựng mối quan hệ bình đẳng giữa người bán và người mua",
+      "C. Giảm giá để chốt nhanh",
+      "D. Chỉ bán qua điện thoại"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 46,
+    "question": "Forecast (Dự báo) bán hàng quan trọng vì?",
+    "options": [
+      "A. Chỉ để báo cáo sếp",
+      "B. Giúp lập kế hoạch nguồn lực, ngân sách và chiến lược kinh doanh",
+      "C. Không quan trọng lắm",
+      "D. Chỉ dùng khi cuối năm"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 47,
+    "question": "Khi bán giá cao hơn đối thủ, bạn nên dùng chiến lược nào?",
+    "options": [
+      "A. Giảm giá để bằng đối thủ",
+      "B. Bán giá trị, không bán giá (Value-Based Selling)",
+      "C. Bỏ qua khách hàng đó",
+      "D. Nói xấu sản phẩm đối thủ"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 48,
+    "question": "Account-Based Selling (ABS) phù hợp nhất với?",
+    "options": [
+      "A. Bán lẻ cho cá nhân",
+      "B. Các đơn hàng lớn, enterprise với nhiều stakeholders",
+      "C. Bán hàng flash sale",
+      "D. Bán hàng qua mạng xã hội"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 49,
+    "question": "Khi đóng vai trò Sales Consultant, điều quan trọng nhất là?",
+    "options": [
+      "A. Bán được nhiều sản phẩm nhất có thể",
+      "B. Tạo dựng niềm tin và giúp khách hàng đạt được mục tiêu của họ",
+      "C. Nói hay và thuyết phục",
+      "D. Có nhiều kinh nghiệm"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 50,
+    "question": "Tổng kết: Yếu tố nào tạo nên một Sales Consultant xuất sắc?",
+    "options": [
+      "A. Chỉ cần kỹ năng chốt đơn",
+      "B. Kết hợp kiến thức chuyên môn, kỹ năng lắng nghe, tư duy giải pháp và đạo đức nghề nghiệp",
+      "C. Chỉ cần ngoại hình tốt",
+      "D. Chỉ cần có nhiều mối quan hệ"
+    ],
+    "answer": "B"
+  }
+]
