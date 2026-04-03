@@ -8,7 +8,7 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "Bài Thi Chứng Chỉ Tư Vấn Bán Hàng | Sales Consultant Certificate",
+  title: "Sales Consultant Certification Exam - HTCV",
   description:
     "Hệ thống thi trực tuyến chứng chỉ Tư Vấn Bán Hàng chuyên nghiệp. 50 câu hỏi trắc nghiệm, thời gian 30 phút.",
   viewport: "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
